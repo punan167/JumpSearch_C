@@ -1,0 +1,3 @@
+/home/amp/Desktop/JumpSearch/cmake-build-debug/CMakeFiles/NCC.dir
+/home/amp/Desktop/JumpSearch/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/amp/Desktop/JumpSearch/cmake-build-debug/CMakeFiles/rebuild_cache.dir
